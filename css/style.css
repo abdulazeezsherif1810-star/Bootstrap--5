@@ -1,0 +1,19 @@
+body::before{
+  display: block;
+  content: "";
+  height: 87px;
+}
+#instructors img{
+  width: 140px;
+}
+
+
+
+/* Break point for medium*/
+
+
+@media(min-width:768px) {
+  .news-input{
+    width: 50%;
+  }
+}
