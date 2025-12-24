@@ -12,7 +12,7 @@ body::before{
 /* Break point for medium*/
 
 
-@media(min-width:768px) {
+@media(min-width:576px) {
   .news-input{
     width: 50%;
   }
